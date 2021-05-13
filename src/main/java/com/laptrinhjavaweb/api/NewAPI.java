@@ -9,7 +9,6 @@ import org.springframework.web.bind.annotation.RestController;
 
 import com.laptrinhjavaweb.dto.NewDTO;
 
-//dinh nghia API
 @RestController 
 public class NewAPI {
 
